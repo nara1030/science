@@ -1,0 +1,14 @@
+# Site settings
+title: Science
+
+email: "nara1030@naver.com"
+url: "http://nara1030.github.io"
+github_url: "http://github.com/nara1030/science"
+github_editurl: "/blob/gh-pages"
+github_profile: "http://github.com/nara1030"
+baseurl: "/science"
+disqus_shortname: nara1030github
+
+exclude:
+  - README.md
+  - _site
